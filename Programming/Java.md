@@ -1,13 +1,13 @@
 # Java Style Guide
 1. [Formatting](#1---formatting)
 2. [Naming Conventions](#2---naming-conventions)
-  1. [Variables](#1---variables)
-  2. [Classes](#2.1---classes)
-  3. [Files](#2.2---files)
-  4. [Objects](#2.3---objects)
+  1. [Variables](#21---variables)
+  2. [Classes](#22---classes)
+  3. [Files](#23---files)
+  4. [Objects](#24---objects)
 3. [Documentation](#3---documentation)
-  1. [Comments](#3.1---comments)
-  2. [Javadocs](#3.2---javadocs)
+  1. [Comments](#31---comments)
+  2. [Javadocs](#32---javadocs)
 4. [Miscellaneous](#4---miscellaneous)
 
 These guidelines aim to lay out the basic guidelines for SERT software in a clear and concise manner. It does not attempt to cover every possible situation but rather common and ambiguous cases. For cases not addressed here, use common sense or refer to the [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html). SERT's rules fall in line with Google's, and the Google guide goes more in depth.
