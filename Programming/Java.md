@@ -31,12 +31,12 @@ void myFunction() {}
 
 ## 2 - Naming conventions
 ### 2.1 - Variables
-Variables names should use camel case with an initial lowercase letter (i.e., camelCase).
+Variables names should use camel case (i.e., camelCase).
 
 Variable names should clearly indicate the variable's purpose. Generic variable names are permissible only in small scopes (e.g., a short function) where the variable's purpose is clear.
 
 ### 2.2 - Classes
-Classes should use camel case with an initial uppercase letter (i.e., CamelCase).
+Classes should use pascal case (i.e., PascalCase).
 
 Command names should clearly state what action the command completes (`TraverseCheval`, `OpenPortcullis`, etc.). If the command name also includes a subsystem name, the subsystem name should be at the end (e.g. `TeleopDrivetrain`, not `DrivetrainTeleop`).
 
