@@ -28,6 +28,17 @@ if (condition) {
 void myFunction() {}
 ```
 - Use one tab for each level of indentation.
+- Aim to limit lines to 80 characters or fewer.
+- Put one space between the characters that start a comment (```//``` or ```/*```) and the text:
+```java
+// Good comment
+//Bad comment
+```
+If the comment is on the same line as actual code, use a space between the code and the comment as well:
+```java
+System.out.println(); // Good comment
+System.out.println();// Bad comment
+```
 
 ## 2 - Naming conventions
 ### 2.1 - Variables
