@@ -76,3 +76,4 @@ For more information, see [Oracle's Javadoc guide](http://www.oracle.com/technet
 
 ## Miscellaneous
 - Before you commit any Java files, please remove all prints and SmartDashboard outputs used for debugging (i.e., anything you don't think drivers actually will need to see). Otherwise they become scattered and difficult to track down while clogging up the console and SmartDashboard.
+- Methods should be organized. A good general rule is to keep public methods in one section and private methods in another, then to alphabetize, although sometimes this doesn't make sense (e.g. separates methods that are similar). Use your best judgment.
