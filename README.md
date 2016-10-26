@@ -2,6 +2,8 @@
 
 [![Team 2521][team-img]][team-url]
 
+A style guide for SERT code and more.
+
 ## Contents
 
 1. [Git and GitHub](https://github.com/SouthEugeneRoboticsTeam/Style-Guidelines/tree/master/Git%20and%20GitHub)
