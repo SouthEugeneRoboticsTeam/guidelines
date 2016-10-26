@@ -2,6 +2,8 @@
 
 [![Team 2521][team-img]][team-url]
 
+## Contents
+
 1. [Git and GitHub](https://github.com/SouthEugeneRoboticsTeam/Style-Guidelines/tree/master/Git%20and%20GitHub)
 	- [Git](https://github.com/SouthEugeneRoboticsTeam/Style-Guidelines/tree/master/Git%20and%20GitHub/Git.md)
 	- [Issues](https://github.com/SouthEugeneRoboticsTeam/Style-Guidelines/tree/master/Git%20and%20GitHub/Issues.md)
