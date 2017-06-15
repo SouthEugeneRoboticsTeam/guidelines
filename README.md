@@ -1,8 +1,8 @@
-# Style-Guidelines
+# Guidelines
 
 [![Team 2521][team-img]][team-url]
 
-A style guide for SERT code and more.
+A guide for all SERT programmers, new and old alike.
 
 ## Contents
 
