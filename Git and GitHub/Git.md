@@ -1,20 +1,20 @@
 # Git Style Guide
 
 1. [Commit Messages](#1---commit-messages)
-2. [Feature Branches](#2---feature-branches)
-3. [Commit Timing](#3---commit-timing)
-4. [Pull Request Timing](#4---pull-request-timing)
-5. [Merging and Rebasing](#5---merging-and-rebasing)
-6. [Releasing](#6---releasing)
+1. [Feature Branches](#2---feature-branches)
+1. [Commit Timing](#3---commit-timing)
+1. [Pull Request Timing](#4---pull-request-timing)
+1. [Merging and Rebasing](#5---merging-and-rebasing)
+1. [Releasing](#6---releasing)
 
 ## 1 - Commit Messages
 
 1. Separate subject from body with a blank line
-2. Limit the subject line to 50 characters
-3. Capitalize the subject line
-4. Do not end the subject line with a period
-5. Use the imperative mood in the subject line
-6. Use the body to explain *what* and *why* vs. *how*
+1. Limit the subject line to 50 characters
+1. Capitalize the subject line
+1. Do not end the subject line with a period
+1. Use the imperative mood in the subject line
+1. Use the body to explain *what* and *why* vs. *how*
 
 Example:
 
@@ -68,9 +68,9 @@ Releases should follow the format `MAJOR.MINOR.PATCH` which should be incremente
 
 1. MAJOR version when you make incompatible API changes
     - e.g. new methods
-2. MINOR version when you add functionality in a backwards-compatible manner
+1. MINOR version when you add functionality in a backwards-compatible manner
     - e.g. significant edits to existing methods
-3. PATCH version when you make backwards-compatible bug fixes
+1. PATCH version when you make backwards-compatible bug fixes
     - e.g. tiny fixes to existing methods
 
 A release should be created every time `master` is rebased to reflect changes on `dev`.
