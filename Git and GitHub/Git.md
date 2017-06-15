@@ -50,11 +50,11 @@ A branch should be created for each logical feature *in your own fork* using the
 
 **Commit often!**
 
-You should commit after every logical change in the application using a commit message formatted to comply with the [Commit Messages](#1.1-commit-messages) section.
+You should commit after every logical change in the application using a commit message formatted to comply with the [Commit Messages](#1---commit-messages) section.
 
 ## 4 - Pull Request Timing
 
-Pull Requests should be created to the `dev` branch of the base repository after the completion or during the development of a feature using a [Feature Branch](#1.2-feature-branches).
+Pull Requests should be created to the `dev` branch of the base repository after the completion or during the development of a feature using a [Feature Branch](#2---feature-branches).
 
 ## 5 - Merging and Rebasing
 
