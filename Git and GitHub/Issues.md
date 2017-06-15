@@ -4,7 +4,9 @@
 
 ## 1 - Format
 
-Issues should follow the repository's [issue format](https://github.com/blog/2111-issue-and-pull-request-templates) if one is provided. Otherwise, they should follow these guidelines:
+Issues should follow the repository's
+[issue format](https://github.com/blog/2111-issue-and-pull-request-templates) if
+one is provided. Otherwise, they should follow these guidelines:
 
 1. Keep the title short and to-the-point
 1. Do not use tags in the title such as "[BUG] The program doesn't work"
@@ -12,7 +14,8 @@ Issues should follow the repository's [issue format](https://github.com/blog/211
 	- "enhancement" - A new feature
 	- "bug" - An issue/bug
 	- "question" - A question about the code
-	- "duplicate" - A duplicate issue; the original should be kept and not tagged
+	- "duplicate" - A duplicate issue; the original should be kept and not
+	tagged
 	- "invalid" - Not an actual issue
 	- "wontfix" - An enhancement or bug that will not be added or fixed
 1. Search to verify the issue has not already been reported

@@ -44,27 +44,35 @@ Resolves #789
 
 ## 2 - Feature Branches
 
-A branch should be created for each logical feature *in your own fork* using the format `ftr-x`. For example, a branch including vision tracking could be called `ftr-vision` in your own fork of the main repository.
+A branch should be created for each logical feature *in your own fork* using the
+format `ftr-x`. For example, a branch including vision tracking could be called
+`ftr-vision` in your own fork of the main repository.
 
 ## 3 - Commit Timing
 
 **Commit often!**
 
-You should commit after every logical change in the application using a commit message formatted to comply with the [Commit Messages](#1---commit-messages) section.
+You should commit after every logical change in the application using a commit
+message formatted to comply with the [Commit Messages](#1---commit-messages)
+section.
 
 ## 4 - Pull Request Timing
 
-Pull Requests should be created to the `dev` branch of the base repository after the completion or during the development of a feature using a [Feature Branch](#2---feature-branches).
+Pull Requests should be created to the `dev` branch of the base repository after
+the completion or during the development of a feature using a
+[Feature Branch](#2---feature-branches).
 
 ## 5 - Merging and Rebasing
 
-Pull Requests should be squashed before being merged, which should be set as the default in the repository settings when the repository is created.
+Pull Requests should be squashed before being merged, which should be set as the
+default in the repository settings when the repository is created.
 
 Branches should be rebased into other branches.
 
 ## 6 - Releasing
 
-Releases should follow the format `MAJOR.MINOR.PATCH` which should be incremented as follows:
+Releases should follow the format `MAJOR.MINOR.PATCH` which should be
+incremented as follows:
 
 1. MAJOR version when you make incompatible API changes
     - e.g. new methods
@@ -73,4 +81,5 @@ Releases should follow the format `MAJOR.MINOR.PATCH` which should be incremente
 1. PATCH version when you make backwards-compatible bug fixes
     - e.g. tiny fixes to existing methods
 
-A release should be created every time `master` is rebased to reflect changes on `dev`.
+A release should be created every time `master` is rebased to reflect changes on
+`dev`.
