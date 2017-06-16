@@ -113,7 +113,7 @@ written in the most clear way possible. Comments themselves should be as concise
 as possible.
 
 When changing code, be sure you change any related comments. Incorrect comments
-are one of the worst things for code readibility. Likewise, when writing
+are one of the worst things for code readability. Likewise, when writing
 comments make clear exactly what code it's describing so others (or future you)
 know to update the comment if they update its code.
 
@@ -145,4 +145,4 @@ clogging up the console and SmartDashboard.
 - Methods should be organized. A good general rule is to keep public methods in
 one section and private methods in another, then to alphabetize, although
 sometimes this doesn't make sense (e.g. separates methods that are similar).
-Use your best judgment.
+Use your best judgement.
