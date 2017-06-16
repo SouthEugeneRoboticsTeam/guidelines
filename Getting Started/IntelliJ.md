@@ -5,7 +5,7 @@
 1. [Linking Gradle](#3---linking-gradle)
 1. [Using IntelliJ](#4---using-intellij)
 
-# 1 - Downloading and Installing IntelliJ
+## 1 - Downloading and Installing IntelliJ
 
 First, head to the
 [download page on the IntelliJ website](https://www.jetbrains.com/idea/download/).
@@ -16,7 +16,7 @@ Once downloaded, open the installer and go through the install process.
 Depending on your operating system, you may be required to enter an admin
 password to finish the installation.
 
-# 2 - Getting the Source Code
+## 2 - Getting the Source Code
 
 To get the source code, click on "Check out from Version Control" > "GitHub" on
 the IntelliJ welcome screen. You may be asked to enter your GitHub username and
@@ -28,7 +28,7 @@ directory or directory name if you would like. You'll be asked whether you would
 like to open the project. Select "Yes". Now the project should be open in a new
 window.
 
-# 3 - Linking Gradle
+## 3 - Linking Gradle
 
 Gradle is the dependency manager we now use after the 2017 season. After opening
 the project, you should see a dialog in the lower right corner of the window
@@ -36,7 +36,7 @@ warning you about an "Unlinked Gradle Project". Press on the "Import Gradle
 project" link and press "OK" on the dialog that appears. The necessary external
 dependencies will begin downloading.
 
-# 4 - Using IntelliJ
+## 4 - Using IntelliJ
 
 IntelliJ is a keyboard-oriented IDE. There are many useful shortcuts that are
 available, the most important of which are listed
