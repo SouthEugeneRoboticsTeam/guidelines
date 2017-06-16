@@ -1,6 +1,7 @@
 # Guidelines
 
 [![Team 2521][team-img]][team-url]
+[![Travis][travis-img]][travis-url]
 
 A guide for all SERT programmers, new and old alike.
 
@@ -16,5 +17,7 @@ A guide for all SERT programmers, new and old alike.
 
 <!-- Badge URLs -->
 
-[team-img]: https://img.shields.io/badge/team-2521-7d26cd.svg?style=flat-square
-[team-url]: https://sert2521.org
+[team-img]:   https://img.shields.io/badge/team-2521-7d26cd.svg?style=flat-square
+[team-url]:   https://sert2521.org
+[travis-img]: https://img.shields.io/travis/SouthEugeneRoboticsTeam/Guidelines.svg?style=flat-square
+[travis-url]: https://travis-ci.org/SouthEugeneRoboticsTeam/Guidelines
