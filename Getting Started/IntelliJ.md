@@ -38,5 +38,12 @@ dependencies will begin downloading.
 
 # 4 - Using IntelliJ
 
-To open up the Project Tree for the project, press <kbd>alt</kbd> +
-<kbd>1</kbd>.
+IntelliJ is a keyboard-oriented IDE. There are many useful shortcuts that are
+available, the most important of which are listed
+[here](https://www.jetbrains.com/help/idea/keyboard-shortcuts-you-cannot-miss.html).
+There is also
+[extensive documentation](https://www.jetbrains.com/help/idea/keyboard-shortcuts-and-mouse-reference.html)
+on the default shortcuts of IntelliJ which you may want to refer to. When just
+getting started, you may want to open the Project Navigation. To do so, press
+<kbd>alt</kbd> + <kbd>1</kbd> on Windows or <kbd>cmd</kbd> + <kbd>1</kbd> on
+macOS.
