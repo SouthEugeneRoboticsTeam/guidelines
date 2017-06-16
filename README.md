@@ -6,6 +6,8 @@ A guide for all SERT programmers, new and old alike.
 
 ## Contents
 
+1. [Getting Started](https://github.com/SouthEugeneRoboticsTeam/Style-Guidelines/tree/master/Getting%20Started)
+	- [IntelliJ](https://github.com/SouthEugeneRoboticsTeam/Style-Guidelines/tree/master/Getting%20Started/IntelliJ.md)
 1. [Git and GitHub](https://github.com/SouthEugeneRoboticsTeam/Style-Guidelines/tree/master/Git%20and%20GitHub)
 	- [Git](https://github.com/SouthEugeneRoboticsTeam/Style-Guidelines/tree/master/Git%20and%20GitHub/Git.md)
 	- [Issues](https://github.com/SouthEugeneRoboticsTeam/Style-Guidelines/tree/master/Git%20and%20GitHub/Issues.md)
