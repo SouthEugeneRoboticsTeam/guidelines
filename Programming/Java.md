@@ -48,7 +48,8 @@ nothing in between. For example:
 void myFunction() {}
 ```
 
-- Use one tab for each level of indentation.
+- Use 4 spaces for each level of indentation (pressing the <kbd>Tab</kbd> key
+will result in 4 spaces by default in IntelliJ).
 - Aim to limit lines to 80 characters or fewer.
 - Put one space between the characters that start a comment (`//` or `/*`) and
 the text:
