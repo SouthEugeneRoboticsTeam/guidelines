@@ -145,4 +145,4 @@ clogging up the console and SmartDashboard.
 - Methods should be organized. A good general rule is to keep public methods in
 one section and private methods in another, then to alphabetize, although
 sometimes this doesn't make sense (e.g. separates methods that are similar).
-Use your best judgement.
+Use your best judgment.

@@ -5,7 +5,6 @@
 # where filename is relative to this configuration file
 IntelliJ
 2FA
-dialog
 macOS
 SERT
 camelCase
@@ -19,3 +18,8 @@ cmd
 wontfix
 Javadocs
 Javadoc
+Gradle
+rebasing
+rebased
+i.e.
+e.g.
