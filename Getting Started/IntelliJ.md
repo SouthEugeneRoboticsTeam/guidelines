@@ -12,7 +12,7 @@ First, head to the
 From here, you will download the latest version of the IntelliJ Community
 Edition for your platform by clicking the "DOWNLOAD" button.
 
-Once downloaded, open the installer and go through the install proccess.
+Once downloaded, open the installer and go through the install process.
 Depending on your operating system, you may be required to enter an admin
 password to finish the installation.
 
@@ -33,7 +33,7 @@ window.
 Gradle is the dependency manager we now use after the 2017 season. After opening
 the project, you should see a dialog in the lower right corner of the window
 warning you about an "Unlinked Gradle Project". Press on the "Import Gradle
-project" link and press "OK" on the dialog that appears. The neccessary external
+project" link and press "OK" on the dialog that appears. The necessary external
 dependencies will begin downloading.
 
 # 4 - Using IntelliJ
